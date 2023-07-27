@@ -12,7 +12,7 @@ function Navbarmenu() {
       <Container fluid>
         <Navbar.Brand href="/home">
 
-<img src={pranavlogo}></img>
+<img src={pranavlogo} alt='logo'></img>
 
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
