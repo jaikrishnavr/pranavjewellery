@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React from 'react';
 import { CCarousel, CCarouselItem, CImage } from '@coreui/react';
 import img1 from "../../Assets/New-Banner01.jpg";
 import img2 from "../../Assets/New-Banner02.jpg";

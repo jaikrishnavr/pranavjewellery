@@ -21,12 +21,12 @@ const HomeAbout = () => {
                     <Button className='btn btn-danger' style={{borderRadius:'20px'}}>
                         Read More 👈
                     </Button>
-                    
+
                 </div>
             </div>
 
             <div className='col'>
-                <img src={building}/>
+                <img src={building} alt='bulding'/>
                 <div className='container'>
                     <h5>"The Road to Perfection"</h5>
                 </div>
